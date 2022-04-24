@@ -71,3 +71,6 @@ This software uses the following open source packages:
 * [EJS](https://ejs.co)
 * [PostgreSQL](https://www.postgresql.org)
 
+## Video
+
+[Video](https://youtu.be/IV8hl0DmE9s)
