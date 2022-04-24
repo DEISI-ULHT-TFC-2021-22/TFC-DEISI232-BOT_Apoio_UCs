@@ -1,0 +1,4 @@
+npm init
+npm i discord.js
+npm i dotenv
+npm i pg
