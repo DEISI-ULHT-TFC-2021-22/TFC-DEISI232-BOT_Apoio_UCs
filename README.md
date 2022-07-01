@@ -30,11 +30,9 @@ The Bot will make statistics from the gathering of data about the students. This
 
 ## How To Use
 
-To use this application, you'll need Discord installed on your computer, download Discord [here](https://discord.com/download). Then you'll need to create a server, so you can clone the Server Template. Get into the Server Template [here](https://discord.gg/DQ3psHhxQx), this server is already fully customized and all the permissions are configured for Professor, Students and Moderators. To clone this template to your UC Server you will need to use the [Xenon Bot](https://xenon.bot) this bot does the server clone for you. Soon as the clone is completed the last step is to invite the [BOT Discord de Apoio a Unidades Curriculares do DEISI](https://discord.com/oauth2/authorize?client_id=904855826647379969&scope=bot&permissions=8).
+To use this application, you'll need Discord installed on your computer, download Discord [here](https://discord.com/download). Then you'll need to create a server, so you can clone the Server Template. This [Server Template](https://discord.gg/DQ3psHhxQx) is already fully customized and all the permissions are configured for Professor, Students and Moderators. To clone this template to your UC Server you will need to use the [Xenon Bot](https://xenon.bot) this bot does the server clone for you. Soon as the clone is completed the last step is to invite the [BOT Discord de Apoio a Unidades Curriculares do DEISI](https://discord.com/oauth2/authorize?client_id=904855826647379969&scope=bot&permissions=8).
 
-When you want to get the results that BOT collect all you need to do is just to login into the [webApp](https://tfc-discordbot.herokuapp.com).
-
-To clone this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
 ```bash
     # Clone this repository

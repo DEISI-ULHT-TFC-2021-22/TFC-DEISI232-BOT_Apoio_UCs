@@ -6,20 +6,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Telmo Costa",
-  "license": "ISC",
   "engines": {
-    "node": "16.13"
+    "node": "^16.13"
   },
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "async": "^3.2.4",
     "body-parser": "^1.19.2",
+    "date-and-time": "^2.3.1",
     "discord.js": "^13.3.1",
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
+    "exceljs": "^4.3.0",
     "express": "^4.17.3",
-    "jsonwebtoken": "^8.5.1",
+    "express-session": "^1.17.2",
     "knex": "^1.0.4",
     "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.18",
     "path": "^0.12.7",
     "pg": "^8.7.3",
     "uuid": "^8.3.2"
